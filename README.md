@@ -1,6 +1,6 @@
 # ECON144
 Econometrics R Project
 
-2 Projects are contained here:
-  1. Project 1
-  2. Project 2
+Two Projects are contained here, and each projects are contained within their own branches (for organizational purposes, they are separated into two branches)
+
+Go to each branches to access each projects
