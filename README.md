@@ -1,7 +1,7 @@
 # ECON144
 Economic Forecasting R Project
 
-Two Projects are contained here, and each projects are contained within their own branches (for organizational purposes, they are separated into two branches)
+Two Projects are contained here, and all files are uploaded within this branch.
 
 --------------------------------------------------------
 
